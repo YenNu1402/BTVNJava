@@ -3,15 +3,7 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-<<<<<<< HEAD
-            <name>BTVN0209</name>
-=======
-<<<<<<< HEAD
-            <name>BTVN2908</name>
-=======
-            <name>BTVN27082024</name>
->>>>>>> 732017c6e471b76dd8dfd6792223a41f466b7b44
->>>>>>> 03124f00590d22d31bc7c647954411e78b8c6e80
+            <name>BTVN2208</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
